@@ -26,4 +26,7 @@ Linear regression model provides the following equation:
 There are two data sets:
 1. "diamonds.csv" - contains the data used to build the model  
 2. 'new_diamonds.csv' - contains the data for the diamonds the company would like to purchase  
-
+Properties:
+- Carat: Weight, numerical variable
+- Cut: Quality, based on 5 value enum `fair, good, very good, ideal, premium`  
+  Represented by numerical category `1-5`

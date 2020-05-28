@@ -24,6 +24,6 @@ Linear regression model provides the following equation:
 
 #### Data
 There are two data sets:
-1. 'diamonds.csv' - contains the data used to build the model  
+1. "diamonds.csv" - contains the data used to build the model  
 2. 'new_diamonds.csv' - contains the data for the diamonds the company would like to purchase  
 
